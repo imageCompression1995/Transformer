@@ -7,6 +7,7 @@ collect recent papers on vision transformer
 |  ----  | ----  | ---- | ---- |
 | [QuadTree Attention for Vision Transformers](https://arxiv.org/abs/2201.02767) | 2022 | ICLR | [Link](https://github.com/Tangshitao/QuadtreeAttention)|
 | [ResT: An Efficient Transformer for Visual Recognition](https://arxiv.org/abs/2105.13677) | 2022 | Arxiv | [Link](https://github.com/wofmanaf/ResT)|
+| [Adder Attention for Vision Transformer](https://openreview.net/pdf?id=5Ld5bRB9jzY) | 2021 | NeurIPS | |
 
 
 
