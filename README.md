@@ -16,3 +16,4 @@ collect recent papers on vision transformer
 |  Title   | year  | Venue | code |
 |  ----  | ----  | ---- | ---- |
 | [Vision Transformer for Small-Size Datasets](https://arxiv.org/abs/2112.13492) | 2022 | Arxiv | None|
+| [Efficient Training of Visual Transformers with Small Datasets](https://openreview.net/pdf?id=SCN8UaetXx) | 2021 | NeurIPS | [Link](https://github.com/yhlleo/VTs-Drloc)|
