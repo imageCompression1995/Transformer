@@ -17,3 +17,11 @@ collect recent papers on vision transformer
 |  ----  | ----  | ---- | ---- |
 | [Vision Transformer for Small-Size Datasets](https://arxiv.org/abs/2112.13492) | 2022 | Arxiv | None|
 | [Efficient Training of Visual Transformers with Small Datasets](https://openreview.net/pdf?id=SCN8UaetXx) | 2021 | NeurIPS | [Link](https://github.com/yhlleo/VTs-Drloc)|
+
+
+## Towards Application  
+
+|  Title   | year  | Venue | code |
+|  ----  | ----  | ---- | ---- |
+| [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/pdf/2204.05525.pdf) | 2022 | CVPR | [Link](https://github.com/hustvl/TopFormer)|
+| [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/pdf/2108.05997.pdf) | 2021 | CVPR | [Link](https://github.com/google-research/google-research/tree/master/musiq)|
