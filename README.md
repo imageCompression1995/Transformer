@@ -26,4 +26,5 @@ collect recent papers on vision transformer
 | [TopFormer: Token Pyramid Transformer for Mobile Semantic Segmentation](https://arxiv.org/pdf/2204.05525.pdf) | 2022 | CVPR | [Link](https://github.com/hustvl/TopFormer)|
 | [Visual Mechanisms Inspired Efficient Transformers for Image and Video Quality Assessment](https://arxiv.org/pdf/2203.14557.pdf) | 2022 | Arxiv | None|
 | [MUSIQ: Multi-scale Image Quality Transformer](https://arxiv.org/pdf/2108.05997.pdf) | 2021 | CVPR | [Link](https://github.com/google-research/google-research/tree/master/musiq)|
+| [SwinNet: Swin Transformer drives edge-aware RGB-D and RGB-T salient object detection](https://arxiv.org/pdf/2204.05585) | 2021 | TCSVT | None|
 
