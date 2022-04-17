@@ -1,6 +1,12 @@
 # Transformer
 collect recent papers on vision transformer 
 
+## Towards compression/pruning
+|  Title   | year  | Venue | code |
+|  ----  | ----  | ---- | ---- |
+| [MiniViT: Compressing Vision Transformers with Weight Multiplexing](https://arxiv.org/pdf/2204.07154.pdf) | 2022 | CVPR | [Link](https://github.com/microsoft/Cream)|
+
+
 ## Towards fast inference 
 
 |  Title   | year  | Venue | code |
